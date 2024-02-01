@@ -15,4 +15,4 @@ int main()
     }
     printf("%s\n", parola);
     return(0);
-}
+} 
